@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110075022189",
+    "firebase_url": "https://haappi-46e5f-default-rtdb.firebaseio.com",
+    "project_id": "haappi-46e5f",
+    "storage_bucket": "haappi-46e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110075022189:android:2e59bd80e845c196cb2864",
+        "android_client_info": {
+          "package_name": "com.accurithm.haappi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110075022189-tfomq8sko4q7omv6h9c30kcg5807bu3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.accurithm.haappi",
+            "certificate_hash": "508585f031385bf3e095d08c8af73cf10bf5b311"
+          }
+        },
+        {
+          "client_id": "110075022189-eduahb4sobseg1acjtpitbsrvi1k4j5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKi4-f70A7PJDPsNd316yicJFSNwF4TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110075022189-eduahb4sobseg1acjtpitbsrvi1k4j5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
